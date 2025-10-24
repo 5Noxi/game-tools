@@ -1,5 +1,4 @@
-﻿
-#  Fortnite Tool
+﻿#  Fortnite Tool
 
 Preview (old): https://youtu.be/PnfshRbnUO4
 
