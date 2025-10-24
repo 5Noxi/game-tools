@@ -14,7 +14,7 @@ TUI Preview:
 
 ![](https://github.com/5Noxi/game-tools/blob/main/marvel-rivals/media/mrtui.png?raw=true)
 
-# <:marvel:1316383055333818480>  Steam Launch Settings
+# Steam Launch Settings
 
 Open Steam, go into your library, right click on Marvel Rivals and go into `Propeties` (these were taken from the source engine, Marvel Rivals uses UE5, and I didn't test if these do anything yet):
 ```ps
@@ -23,4 +23,4 @@ Open Steam, go into your library, right click on Marvel Rivals and go into `Prop
 
 How it could look:
 
-![](https://github.com/5Noxi/game-tools/blob/main/marvel-rivals/media/mrtui.png?raw=true)
+![](https://github.com/5Noxi/game-tools/blob/main/marvel-rivals/media/mrls.png?raw=true)
