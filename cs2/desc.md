@@ -8,9 +8,9 @@
 
 
 Reference:
-- https://developer.valvesoftware.com/wiki/Command_line_options
-- https://developer.valvesoftware.com/wiki/Command_line_options_(Source_2)
-- https://totalcsgo.com/commands
+> https://developer.valvesoftware.com/wiki/Command_line_options  
+> https://developer.valvesoftware.com/wiki/Command_line_options_(Source_2)  
+> https://totalcsgo.com/commands  
 
 TUI Preview:
 
@@ -24,8 +24,8 @@ Open Steam, go into your library, right click on Counter-Strike 2 and go into `P
 ```
 
 Reference:
-- https://developer.valvesoftware.com/wiki/Command_line_options
-- https://developer.valvesoftware.com/wiki/Command_line_options_(Source_2)
+> https://developer.valvesoftware.com/wiki/Command_line_options  
+> https://developer.valvesoftware.com/wiki/Command_line_options_(Source_2)  
 
 How it could look:
 

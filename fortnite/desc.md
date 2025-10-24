@@ -1,6 +1,7 @@
 ﻿#  Fortnite Tool
 
-Preview (old): https://youtu.be/PnfshRbnUO4
+Preview (old): 
+> https://youtu.be/PnfshRbnUO4  
 
 | Option                 | Details                                                           |
 |------------------------------------|-------------------------------------------------------------------|
