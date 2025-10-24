@@ -29,4 +29,4 @@ Reference:
 
 How it could look:
 
-![](https://github.com/5Noxi/game-tools/blob/main/cs2/media/mrls.png?raw=true)
+![](https://github.com/5Noxi/game-tools/blob/main/cs2/media/cs2ls.png?raw=true)
