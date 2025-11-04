@@ -4,7 +4,7 @@
 |-----------------------------------|-------------------------------------------------------------------|
 | `cs2_video.txt` & `cs2_machine_convars.vcfg` | Replaces specific lines to configure game settings     |
 | `autoexec.cfg`                    | Configuration (console commands) – Doesn't remove current commands |
-| **QoS Policy**                    | - High priority packet handling (DSCP) <br> - No bandwidth throttling <br> [Placeholder](https) includes more information|
+| **QoS Policy**                    | - High priority packet handling (DSCP) <br> - No bandwidth throttling <br> [win-config/network - QoS-Policy](https://github.com/5Noxi/win-config/blob/main/network/desc.md#qos-policy) includes more information|
 
 
 Reference:
