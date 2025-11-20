@@ -1,7 +1,4 @@
-﻿#  Fortnite Tool
-
-Preview (old): 
-> https://youtu.be/PnfshRbnUO4  
+﻿# Fortnite Tool
 
 | Option                 | Details                                                           |
 |------------------------------------|-------------------------------------------------------------------|
@@ -13,14 +10,20 @@ Preview (old):
 | **QoS Policy**                     | - High priority packet handling (DSCP) <br> - No bandwidth throttling <br> - [win-config/network - QoS-Policy](https://github.com/5Noxi/win-config/blob/main/network/desc.md#qos-policy) includes more information |
 
 CL Arguments (UE):
-- https://dev.epicgames.com/documentation/en-us/unreal-engine/command-line-arguments-in-unreal-engine
+>  https://dev.epicgames.com/documentation/en-us/unreal-engine/command-line-arguments-in-unreal-engine
 
-TUI Preview:
+## TUI Preview
 
 ![](https://github.com/5Noxi/game-tools/blob/main/fortnite/media/fntui.png?raw=true)
 
-# Game Installation
+## Game Installation Options
 
 Click on the three dots (librabry), then on `Options`. Enable `Pre-download Streamed Assets`:
 
 ![](https://github.com/5Noxi/game-tools/blob/main/fortnite/media/fninstall.png?raw=true)
+
+## Download
+
+It might fail execution if the powershell execution policy is set to it's default values. See [PS Unrestricted Policy](https://github.com/5Noxi/win-config/blob/8144f2f151799c6140ad3ea895ce55e13064abb4/security/desc.md#ps-unrestricted-policy) for details.
+
+> [fortnite/NV-Fortnite-Tool](https://github.com/5Noxi/app-tools/blob/main/fortnite/NV-Fortnite-Tool.ps1)
