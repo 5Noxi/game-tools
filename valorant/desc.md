@@ -24,4 +24,4 @@ These are only the settings that cannot be applied via the script (you can enabl
 
 It might fail execution if the powershell execution policy is set to it's default values. See [PS Unrestricted Policy](https://github.com/5Noxi/win-config/blob/8144f2f151799c6140ad3ea895ce55e13064abb4/security/desc.md#ps-unrestricted-policy) for details.
 
-> [valorant/NV-VALORANT-Tool](https://github.com/5Noxi/app-tools/blob/main/valorant/NV-VALORANT-Tool.ps1)
+> [valorant/NV-VALORANT-Tool](https://github.com/5Noxi/game-tools/blob/main/valorant/NV-VALORANT-Tool.ps1)

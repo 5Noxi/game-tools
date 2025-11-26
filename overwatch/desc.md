@@ -21,4 +21,4 @@ These are only the settings, which can't get applied via the script.
 
 It might fail execution if the powershell execution policy is set to it's default values. See [PS Unrestricted Policy](https://github.com/5Noxi/win-config/blob/8144f2f151799c6140ad3ea895ce55e13064abb4/security/desc.md#ps-unrestricted-policy) for details.
 
-> [overwatch/NV-Overwatch-Tool](https://github.com/5Noxi/app-tools/blob/main/overwatch/NV-Overwatch-Tool.ps1)
+> [overwatch/NV-Overwatch-Tool](https://github.com/5Noxi/game-tools/blob/main/overwatch/NV-Overwatch-Tool.ps1)
